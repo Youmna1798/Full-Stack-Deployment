@@ -42,6 +42,10 @@ jobs:
           name: Front-End Deploy App
           command: |
             npm run frontend:deploy
+      - run:
+          name: Back-End test 
+          command: |
+            npm run backend:test      
 workflows:
   workflow:                    
     jobs:

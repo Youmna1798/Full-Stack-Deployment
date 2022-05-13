@@ -6,9 +6,9 @@
 ### screenshots:
 
 * Successful build
-![circleci - build](screenshots/)
+![circleci - build](screenshots/circleci-build.png)
 
 
 * Project settings
 
-![circleci - environmentVariables](screenshots/)
+![circleci - environmentVariables](screenshots/circleci-environmentVariables.png)
