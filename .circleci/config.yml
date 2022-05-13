@@ -39,9 +39,9 @@ jobs:
           command: |
             npm run backend:test   
       - run:
-        name: Front-End test
-        command: |
-          npm run frontend:test           
+          name: Front-End test
+          command: |
+            npm run frontend:test           
       - run:
           name: Back-End Deploy App
           command: |
