@@ -33,11 +33,7 @@ jobs:
       - run:
           name: Back-End Build
           command: |
-            npm run backend:build
-      - run:
-          name: Front-End test
-          command: |
-            npm run frontend:test           
+            npm run backend:build          
       - run:
           name: Back-End Deploy App
           command: |
