@@ -1,3 +1,5 @@
+eb init udagram-api-dev1
+eb use udagram-api-dev1
 eb deploy --profile default 
 
 
