@@ -13,7 +13,7 @@ The project will also include writing documentation covering the operations of t
 
 ### Access Website
 
-* Use this link: http://randombucket1234.s3-website-us-east-1.amazonaws.com/home to access the website. Frontend 
+* Use this link: http://randombucket1234.s3-website-us-east-1.amazonaws.com/home to access the website.  
 
 
 ### Hosting
