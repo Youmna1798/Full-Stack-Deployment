@@ -43,6 +43,10 @@ jobs:
           command: |
             npm run frontend:deploy         
 workflows:
-    example-workflow:
-      jobs:
-        - node/run
+  workflow:                    
+    jobs:
+      - build:  
+          filters:
+            branches:
+               only:                
+                  - main
