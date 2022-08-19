@@ -13,7 +13,7 @@ The project will also include writing documentation covering the operations of t
 
 ### Access Website
 
-* Use this link: http://randombucket1234.s3-website-us-east-1.amazonaws.com to access the website.  
+* Use this link: http://udagram-first.s3-website-us-east-1.amazonaws.com to access the website.  
 
 
 ### Hosting

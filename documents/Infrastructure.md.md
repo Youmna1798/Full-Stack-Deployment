@@ -11,15 +11,21 @@
 
 * AWS RDS database
 
-![aws - RDS](screenshots/RDS-database.png)
+![aws - RDS](screenshots/RDS.png)
 
+* Test Database connection
+![aws - RDS](screenshots/test-database-connect.png)
 
 
 * AWS elastic beanstalk api server
 
-![elacstic beanstalk - udagramapi-env](screenshots/Elastic%20Beanstalk.png)
+![elacstic beanstalk - udagramapi-env](screenshots/E-beanStalk.png)
 
 
 * AWS S3 frontend bucket & uploaded images
 
-![S3 bucket](screenshots/S3%20bucket.png)
+![S3 bucket](screenshots/bucket-S3.png)
+
+* Test URL S3
+![S3 bucket](screenshots/test-s3-URL.png)
+
