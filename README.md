@@ -8,8 +8,7 @@ You will then register for a free account on CircleCi and connect your Github ac
 
 The project will also include writing documentation covering the operations of the deployment process. Which will serve as a way to communicate with future developers and anybody involved in diagnosing outages of the Full-Stack application.
 
-![infrastructure-Diagram](./documents/screenshots/infrastructure-diagram.png)
-![pipline-Diagram](./documents/screenshots/pipline-diagram.png)
+
 
 ### Access Website
 

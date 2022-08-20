@@ -19,7 +19,10 @@
 
 * AWS elastic beanstalk api server
 
-![elacstic beanstalk - udagramapi-env](screenshots/E-beanStalk.png)
+![elacstic beanstalk - udagramapi-env](screenshots/Elasticbean-stalk.png)
+
+* AWS elastic beanstalk test URL
+![elacstic beanstalk - udagramapi-env](screenshots/test-elastic-url.png)
 
 
 * AWS S3 frontend bucket & uploaded images
