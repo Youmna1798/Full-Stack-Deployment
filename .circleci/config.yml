@@ -34,7 +34,7 @@ jobs:
           name: Back-End Build
           command: |
             npm run backend:build  
-       - run:
+      - run:
           name: Front-End Deploy App
           command: |
             npm run frontend:deploy        
@@ -47,6 +47,7 @@ workflows:
     jobs:
       - build:  
           filters:
+            
             branches:
                only:                
                   - main
