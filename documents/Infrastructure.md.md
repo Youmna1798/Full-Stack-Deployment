@@ -14,7 +14,7 @@
 ![aws - RDS](screenshots/RDS.png)
 
 * Test Database connection
-![aws - RDS](screenshots/test-database-connect.png)
+![aws - RDS](screenshots/test-database-connection.png)
 
 
 * AWS elastic beanstalk api server
