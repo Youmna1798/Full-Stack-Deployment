@@ -23,6 +23,7 @@
 
 * AWS elastic beanstalk test URL
 ![elacstic beanstalk - udagramapi-env](screenshots/test-elastic-url.png)
+![elacstic beanstalk - URL](screenshots/EB-URL.png)
 
 
 * AWS S3 frontend bucket & uploaded images

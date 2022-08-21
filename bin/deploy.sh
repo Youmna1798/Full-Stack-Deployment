@@ -1,5 +1,5 @@
-eb init udagram-api-dev1 --platform node.js --region us-east-1 
-eb use udagram-api-dev1 --profile default
+eb init udagram-api-dev --platform node.js --region us-east-1 
+eb use udagram-api-dev --profile default
 eb deploy --profile default 
 
 
