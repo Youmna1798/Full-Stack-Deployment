@@ -12,7 +12,7 @@ The project will also include writing documentation covering the operations of t
 ![infrastructure - diagram](documents/screenshots/infrastructure-diagram.png)
 
 * pipeline-diagram
-![pipeline - diagram](documents/screenshots/pipeline-diagram.png)
+![pipeline - diagram](documents/screenshots/pipline-diagram.png)
 
 
 ### Access Website
